@@ -3,7 +3,7 @@
 This project demonstrates basic unit testing in C++ using [Google Test](https://github.com/google/googletest).
 
 ## Project Structure
-
+```
 .
 ├── Example.hpp # Header file with multiply function declaration
 ├── Example.cpp # Implementation of multiply function
@@ -11,7 +11,7 @@ This project demonstrates basic unit testing in C++ using [Google Test](https://
 │ ├── ExampleTests.cpp # Google Test test cases
 │ └── CMakeLists.txt # Test build configuration
 ├── CMakeLists.txt # Top-level build configuration
-
+```
 ## Prerequisites
 
 - CMake (version 3.14 or higher recommended)
