@@ -29,9 +29,9 @@ ctest --output-on-failure
 ```
 This will build the project and run the tests, showing detailed output for any failed tests.
 
-Example Test Cases
+## Example Test Cases
 The tests cover the multiply(int a, int b) function, verifying behavior with positive, zero, and negative inputs.
 
-License
+## License
 This project is for learning purposes only.
 
