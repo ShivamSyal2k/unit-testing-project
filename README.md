@@ -30,7 +30,7 @@ ctest --output-on-failure
 This will build the project and run the tests, showing detailed output for any failed tests.
 
 ## Example Test Cases
-The tests cover the multiply(int a, int b) function, verifying behavior with positive, zero, and negative inputs.
+The tests cover the ```bash multiply(int a, int b) ``` function, verifying behavior with positive, zero, and negative inputs.
 
 ## License
 This project is for learning purposes only.
